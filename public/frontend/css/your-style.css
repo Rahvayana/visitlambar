@@ -1,0 +1,20 @@
+/*------------------------------------------------------------------
+* Project:        Tourperator
+* Author:         Crenoveative 
+* URL:            http://crenoveative.com or https://themeforest.net/user/crenoveative/portfolio 
+* Created:        10/09/2019 
+-------------------------------------------------------------------*/
+
+
+/** 
+ * Add your style here 
+ */
+
+.elip {
+    width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+}
