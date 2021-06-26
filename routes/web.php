@@ -4,13 +4,13 @@ use Illuminate\Support\Facades\Route;
 use Illuminate\Support\Facades\Auth;
 
 use App\Http\Controllers\FrontendController;
-use App\Http\Controllers\cms\CmsController;
-use App\Http\Controllers\cms\TourController;
-use App\Http\Controllers\cms\DestinationController;
-use App\Http\Controllers\cms\SettingController;
-use App\Http\Controllers\cms\TeamController;
-use App\Http\Controllers\cms\ServiceController;
-use App\Http\Controllers\Cms\AvailableController;
+use App\Http\Controllers\CmsController;
+use App\Http\Controllers\TourController;
+use App\Http\Controllers\DestinationController;
+use App\Http\Controllers\SettingController;
+use App\Http\Controllers\TeamController;
+use App\Http\Controllers\ServiceController;
+use App\Http\Controllers\AvailableController;
 use App\Http\Controllers\BookingController;
 use App\Http\Controllers\CustomersController;
 /*
