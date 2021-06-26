@@ -1,8 +1,7 @@
 <?php
 
-namespace App\Http\Controllers\Cms;
+namespace App\Http\Controllers;
 
-use App\Http\Controllers\Controller;
 use App\Models\AvailableModel;
 use App\Models\TourModel;
 use Carbon\Carbon;
